@@ -15,4 +15,6 @@ console.log(`${greeting1}, ${firstName1}!`);
 // => Hello, Joffrey! 
 
 console.log(`- Are you hungry?
-- Aaaarrrgh!`);
+- Aaaarrrgh!`); 
+
+console.log(`Интерполяция работает только со строками в бектиках. Это символ \` `);
